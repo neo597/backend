@@ -1,5 +1,5 @@
 firebase_credentials.json
-env
+.env
 # Ignorar archivos específicos
 .env
 *.log
